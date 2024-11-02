@@ -1,6 +1,6 @@
 Kotlin Coroutines + WebFlux + MongoDB = Async Awesomeness ⚡
 
-Supercharge your Spring Boot apps with Kotlin Coroutines, WebFlux, and MongoDB for a smooth, non-blocking backend that scales effortlessly. With this setup, you'll handle API requests, database queries, and background tasks like a pro—all while keeping your code readable and clean.
+Supercharge your Spring Boot apps with Kotlin Coroutines, WebFlux, and MongoDB for a smooth, non-blocking backend that scales effortlessly. With this setup, you'll handle API requests, database queries, while keeping your code readable and clean.
 
 ✨ Key Benefits:
 - **Scalability**: Handle high loads without blocking threads, thanks to non-blocking I/O.
