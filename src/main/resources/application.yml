@@ -3,7 +3,4 @@ spring:
     name: coroutine.webflux
   data:
     mongodb:
-      uri: mongodb://root:password@localhost:27017/webflux_kotlin_mongo
-      database: webflux_kotlin_mongo
-      username: root
-      password: password
+      uri: mongodb://localhost:27017/mongo
